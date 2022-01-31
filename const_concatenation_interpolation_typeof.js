@@ -9,3 +9,8 @@ console.log('Food i want to eat ' + foodToEat + '.');
 //String Interpolation
 let switchOn = true;
 console.log(`The light bulb lights up the room ${switchOn}. But it does not light up my heart`);  
+// typeof Operator to know the data type
+let newVariable = 'kanni';
+console.log(typeof newVariable);
+newVariable  = 10;
+console.log(typeof newVariable);
