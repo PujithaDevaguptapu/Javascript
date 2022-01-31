@@ -1,0 +1,10 @@
+let changeMe = true;
+console.log(changeMe);
+changeMe = false;
+console.log(changeMe);
+var skip = 30;
+console.log(skip);
+skip = 450;
+console.log(skip);
+changeMe = 08-27-1986;
+console.log(changeMe);
